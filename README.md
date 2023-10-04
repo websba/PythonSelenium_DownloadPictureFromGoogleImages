@@ -14,6 +14,9 @@
 
 輸入完後，圖片便會自動開始下載
 
+![image](https://github.com/websba/PythonSelenium_DownloadPictureFromGoogleImages/assets/134906281/d27bb7ff-5e0c-4db7-a446-a5019e87d129)
+
+
 # 環境設置
 
 記得下載 chromedriver.exe，這個要跟Python程式 (DownloadPictureFromGoogleImages.py) 放在同一個資料夾
@@ -28,6 +31,9 @@ bat檔裡面寫一行:
 python C:\Users\This PC\Desktop\123\DownloadPictureFromGoogleImages.py
 
 之後只要點兩下bat後，就可以執行了
+
+也可以將bat放在同一個資料夾
+![image](https://github.com/websba/PythonSelenium_DownloadPictureFromGoogleImages/assets/134906281/d7d1315e-f4b7-4803-867d-3bddc2de83f6)
 
 # 如果遇到不能使用的狀況
 
